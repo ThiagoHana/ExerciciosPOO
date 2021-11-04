@@ -1,0 +1,10 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex.3 Encapsulamento.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex._3_Encapsulamento.Form1.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex._3_Encapsulamento.Properties.Resources.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex.3 Encapsulamento.csproj.GenerateResource.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex.3 Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\bin\Debug\Ex.3 Encapsulamento.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\bin\Debug\Ex.3 Encapsulamento.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\bin\Debug\Ex.3 Encapsulamento.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex.3 Encapsulamento.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.3 Encapsulamento\Ex.3 Encapsulamento\obj\Debug\Ex.3 Encapsulamento.pdb

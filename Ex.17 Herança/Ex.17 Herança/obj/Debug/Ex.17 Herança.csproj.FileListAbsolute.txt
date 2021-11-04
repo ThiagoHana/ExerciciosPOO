@@ -1,0 +1,10 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\bin\Debug\Ex.17 Herança.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\bin\Debug\Ex.17 Herança.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\bin\Debug\Ex.17 Herança.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex.17 Herança.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex._17_Herança.Form1.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex._17_Herança.Properties.Resources.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex.17 Herança.csproj.GenerateResource.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex.17 Herança.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex.17 Herança.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.17 Herança\Ex.17 Herança\obj\Debug\Ex.17 Herança.pdb

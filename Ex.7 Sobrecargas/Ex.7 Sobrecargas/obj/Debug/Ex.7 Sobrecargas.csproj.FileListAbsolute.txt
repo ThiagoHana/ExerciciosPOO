@@ -1,0 +1,7 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\bin\Debug\Ex.7 Sobrecargas.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\bin\Debug\Ex.7 Sobrecargas.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\bin\Debug\Ex.7 Sobrecargas.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\obj\Debug\Ex.7 Sobrecargas.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\obj\Debug\Ex.7 Sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\obj\Debug\Ex.7 Sobrecargas.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.7 Sobrecargas\Ex.7 Sobrecargas\obj\Debug\Ex.7 Sobrecargas.pdb

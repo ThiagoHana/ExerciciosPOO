@@ -1,0 +1,7 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\bin\Debug\Ex.2 Jogo Encapsulado.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\bin\Debug\Ex.2 Jogo Encapsulado.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\bin\Debug\Ex.2 Jogo Encapsulado.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\obj\Debug\Ex.2 Jogo Encapsulado.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\obj\Debug\Ex.2 Jogo Encapsulado.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\obj\Debug\Ex.2 Jogo Encapsulado.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.2 Jogo Encapsulado\Ex.2 Jogo Encapsulado\obj\Debug\Ex.2 Jogo Encapsulado.pdb
